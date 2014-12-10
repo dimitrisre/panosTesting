@@ -2,5 +2,6 @@
 
 int main(){
 	printf("I am a good little C programm!\n");
+	printf("My name is Fatalerror\n")
 	return 0;
 }
